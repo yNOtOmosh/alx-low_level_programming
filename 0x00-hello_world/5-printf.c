@@ -1,13 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - start point for program execution
+ * main - start execution
  *
- * Return: 0 ends the execution of function
+ * Return: 0 always
  */
-
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art, ");
-	return (0);
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);	
 }
